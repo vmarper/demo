@@ -19,4 +19,10 @@ Branches?= Git maneja varios ramas/realidades.
 Cuando creo una rama se copia identica hasta donde va y puedo hacerle cambio a las ramas.
 El multiverso. 
 
-Q = END 
+Q = end 
+
+git branch "nombre de branch" -d = eliminar branch
+
+git remote add origin "dirección HTTPS de repositorio remoto" = añadir un repositorio 
+
+git push origin master = instrucción para subir todo al repositorio desde el origen master
