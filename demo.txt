@@ -1,0 +1,22 @@
+GIT COMMANDS
+
+touch "name of file" = create new file
+
+git add "name of file"
+
+git commit -m "message you want to show" = commit file
+
+git checkout "identificador del commit" = viajar en el tiempo para realizar un control de versiones. 
+Pero se debe guardar cambios de todos modos. En esa area se deben guardar cambios. 
+
+tambien para ir de una rama a otra ex: git checkout prueba
+
+git checkout master = volver a estado actual
+
+git log = que commits se han realizado?
+
+Branches?= Git maneja varios ramas/realidades. 
+Cuando creo una rama se copia identica hasta donde va y puedo hacerle cambio a las ramas.
+El multiverso. 
+
+Q = END 
